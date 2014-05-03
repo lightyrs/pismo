@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency(%q<rake>, [">= 0"])  
   s.add_dependency(%q<awesome_print>, [">= 0"])
   s.add_dependency(%q<nokogiri>, [">= 0"])
+  s.add_dependency(%q<curb>, [">= 0"])
   s.add_dependency(%q<sanitize>, [">= 0"])
   s.add_dependency(%q<fast-stemmer>, [">= 0"])
   s.add_dependency(%q<chronic>, [">= 0"])
